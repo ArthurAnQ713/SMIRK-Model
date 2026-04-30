@@ -46,21 +46,6 @@ Numerical simulation is performed using `scipy.integrate.solve_ivp`.
 
 ---
 
-## Project Structure
-
-SMIRK-Model/
-│
-├── Identity/
-├── New 3-Parameters Simulation/
-├── Original 4-Parameters Simulation/
-├── Reference/
-│
-├── README.md
-├── LICENSE
-└── .gitignore
-
----
-
 ## How to Run
 
 1. Clone the repository:
@@ -89,3 +74,10 @@ Install:
 ```bash
 pip install numpy scipy matplotlib
 ```
+
+---
+
+# References
+
+Original SMIRK model paper
+COVID-19 vaccination and case data
