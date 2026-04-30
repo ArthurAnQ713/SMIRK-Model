@@ -79,5 +79,5 @@ pip install numpy scipy matplotlib
 
 # References
 
-Original SMIRK model paper
-COVID-19 vaccination and case data
+- Original SMIRK model paper
+- COVID-19 vaccination and case data
